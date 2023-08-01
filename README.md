@@ -19,6 +19,11 @@
 
     ```
     POST http://localhost:3000/sendLog
+
+    body:
+    {
+        "message": "Message to process"
+    }
     ```
 
 4. Запрос будет обработан потребителем и отправлен ответ.
