@@ -1,7 +1,4 @@
 # RabbitMQ/NodeJS
-
-This project demonstrates a simple messaging app using RabbitMQ and Node.js.
-
 ## Запуск приложения
 
 Чтобы запустить приложение, выполните следующие действия:
